@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"title": "Violin Acustico ",
+		"description": "InstrumetoClasico",
+		"code": 2,
+		"status": true,
+		"stock": "12",
+		"category": "Alta Gama",
+		"thumbnail": "url - imagen"
+	},
+	{
+		"id": 2,
+		"title": "Violin Acustico ",
+		"description": "InstrumetoClasico",
+		"code": 2,
+		"status": true,
+		"stock": "12",
+		"category": "Alta Gama",
+		"thumbnail": "url - imagen"
+	}
+]
