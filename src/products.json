@@ -1,22 +1,20 @@
 [
 	{
 		"id": 1,
-		"title": "Violin Acustico ",
-		"description": "InstrumetoClasico",
-		"code": 2,
-		"status": true,
-		"stock": "12",
-		"category": "Alta Gama",
-		"thumbnail": "url - imagen"
+		"title": "Bateria Yahama",
+		"description": "INSTRUMENTOS",
+		"code": "22",
+		"status": "TRUE",
+		"stock": "3",
+		"category": "ALTA GAMA"
 	},
 	{
 		"id": 2,
-		"title": "Violin Acustico ",
-		"description": "InstrumetoClasico",
-		"code": 2,
-		"status": true,
-		"stock": "12",
-		"category": "Alta Gama",
-		"thumbnail": "url - imagen"
+		"title": "VIOLIN",
+		"description": "INSTRUMENTOS",
+		"code": "11",
+		"status": "TRUE",
+		"stock": "5",
+		"category": "ALTA GAMA"
 	}
 ]
